@@ -1,0 +1,18 @@
+p {
+  font-family: Lato;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.wrapper .coord {
+  position: absolute;
+  top: 1em;
+  color: white;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  font-size: 5em;
+  user-select: none;
+}
